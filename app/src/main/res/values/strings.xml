@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TorresVaraApplication</string>
+    <string name="btnmainregistro">REGISTRO</string>
+    <string name="btnmainformulario">FORMULARIO</string>
+    <string name="btnmainlistado">LISTADO</string>
+    <string name="cuestionariotitle">CUESTIONARIO</string>
+    <string name="pregunta1">Marque sus habilidades</string>
+    <string name="pregunta2">¿Cuán significativo es tu trabajo?</string>
+    <string name="pregunta3">¿Qué tan bien te pagan en el trabajo que haces?</string>
+    <string name="pregunta4">¿Trabajas bajo presión?</string>
+    <string name="pregunta5">¿Tienes oportunidad de crecimiento en tu trabajo?</string>
+    <string name="btnformresolver">RESOLVER</string>
+</resources>
